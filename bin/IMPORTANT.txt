@@ -1,0 +1,5 @@
+
+
+// rendre compatible le a.out avec le path
+
+mv /home/tom/Documents/projet\ perso/C_entrainement/propre_softw/bin/a.out /home/tom/Documents/projet\ perso/C_entrainement/propre_softw/bin/unitom
